@@ -5,7 +5,7 @@ set -e
 
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
-echo "1. To vivescere/personal-website"
+printf "\033[0;32m1. To vivescere/personal-website\033[0m\n"
 
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
@@ -19,7 +19,7 @@ git add .
 git commit -m "$msg"
 git push origin master
 
-echo "2. To vivescere.github.io"
+printf "\n\033[0;32m2. To vivescere.github.io\033[0m\n"
 
 # Go To Public folder
 cd public
