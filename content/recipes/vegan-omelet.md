@@ -41,3 +41,7 @@ This took about one hour to make. It's enough for 4 people, and is easy to make.
 We didn't manage to cut the omelet into parts without destroying its structure, and it was still a little bit too liquid on top. But it was still good.
 
 Overall, I'd give it a 4/5.
+
+[![](/assets/minified/IMG_20200608_131236.jpg)](/assets/IMG_20200608_131236.jpg)
+[![](/assets/minified/IMG_20200608_131224.jpg)](/assets/IMG_20200608_131224.jpg)
+[![](/assets/minified/20200608131946_IMG_2233.jpg)](/assets/20200608131946_IMG_2233.JPG)
