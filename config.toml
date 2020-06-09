@@ -1,0 +1,30 @@
+baseURL = "https://nicolasb.fr"
+languageCode = "en-us"
+title = "Nicolas Bourras"
+theme = "sam"
+
+[permalinks]
+recipes = "/recipes/:year/:month/:day/:title/"
+
+[params]
+dateForm = "Jan 02, 2006"
+homepage = "home"
+footerText = "Nicolas Bourras's site"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[[params.mainMenu]]
+link = "blog"
+text = "blog"
+
+[[params.mainMenu]]
+link = "recipes"
+text = "recipes"
+
+[[params.mainMenu]]
+link = "about"
+text = "who am I?"
+
+[imaging]
+quality = 75
