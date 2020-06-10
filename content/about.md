@@ -33,4 +33,4 @@ This series of videos (in french) was an attempt at teaching Flutter, a framewor
 
 This application allows an athlete (or anyone who wants to, really) share their location in realtime.
 
-I use it to stay safe when I go cycling. Sometimes you go out for a really long time, and knowing that the contacts you chose can check on you in a few seconds really lifts a weight of your shoulders.
+I use it to stay safe when I go cycling. Sometimes you go out for a really long time, and knowing that the contacts you chose can check on you in a few seconds really lifts a weight off your shoulders.
