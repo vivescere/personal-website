@@ -13,6 +13,8 @@ Source : [PERFECT Vegan Chocolate Chip Cookie Recipe - Pincha Pink Salt](https:/
 
 This took about an half-hour to make, and is really easy.
 
+**Use [the new recipe](/recipes/2020/06/11/cookies-v2) instead, it's way better.**
+
 ### Ingredients
 
 - 260g flour

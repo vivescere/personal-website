@@ -9,7 +9,7 @@ showDate: true
 
 ## Recipe
 
-[TODO: source]()
+Source: [TODO]()
 
 This took about TODO to make. It's enough for TODO people, and is TODO to make.
 

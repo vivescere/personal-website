@@ -13,7 +13,7 @@ if [ -n "$*" ]; then
 fi
 
 # Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 git add .
 git commit -m "$msg"
