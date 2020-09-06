@@ -7,6 +7,9 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/IMG_2139.jpg)](/assets/IMG_2139.jpg)
+[![](/assets/minified/IMG_2133.jpg)](/assets/IMG_2133.jpg)
+
 ## Recipe
 
 Source : [CREAMY MUSHROOM PASTA | OIL FREE & VEGAN - The Happy Pear](https://www.youtube.com/watch?v=TEJ8ZDjZbyQ)
@@ -47,6 +50,3 @@ This took about 35min to make (I'm not good at cleaning mushrooms). It's enough 
 They were really good and light too! I'd like to use different mushrooms to see how the taste will change.
 
 Overall, I'd give them a 4.75/5.
-
-[![](/assets/minified/IMG_2139.jpg)](/assets/IMG_2139.jpg)
-[![](/assets/minified/IMG_2133.jpg)](/assets/IMG_2133.jpg)

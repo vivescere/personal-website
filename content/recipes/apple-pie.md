@@ -7,6 +7,10 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/20200609202332_IMG_2254.jpg)](/assets/20200609202332_IMG_2254.JPG)
+[![](/assets/minified/20200609202354_IMG_2255.jpg)](/assets/20200609202354_IMG_2255.JPG)
+[![](/assets/minified/20200609201235_IMG_2234.jpg)](/assets/20200609201235_IMG_2234.JPG)
+
 ## Recipe
 
 Source : [Vegan Apple Pie - Tasty](https://www.youtube.com/watch?v=EObBCXJ3BeA&t=54s)
@@ -46,7 +50,3 @@ This took about 3 hours and a half to make (I was really slow). It's enough for 
 It was delicious, altough really heavy. Maybe there was too much sugar this time, I'd also like to try to perfect the top crust. The biggest pain point I can find is that it takes way too long to make - I spent almost the whole afternoon making it (because I'm still really slow at cooking).
 
 Overall, I'd give it a 4.75/5.
-
-[![](/assets/minified/20200609202332_IMG_2254.jpg)](/assets/20200609202332_IMG_2254.JPG)
-[![](/assets/minified/20200609202354_IMG_2255.jpg)](/assets/20200609202354_IMG_2255.JPG)
-[![](/assets/minified/20200609201235_IMG_2234.jpg)](/assets/20200609201235_IMG_2234.JPG)

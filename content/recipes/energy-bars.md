@@ -7,6 +7,9 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/20200606165442_IMG_2200.jpg)](/assets/20200606165442_IMG_2200.JPG)
+[![](/assets/minified/20200606164800_IMG_2184.jpg)](/assets/20200606164800_IMG_2184.JPG)
+
 ## Recipe
 
 Source : [Homemade Energy Bars - So Vegan](https://www.wearesovegan.com/homemade-energy-bars/)
@@ -41,6 +44,3 @@ This took about 1h20 to prepare and bake, and produces around 10 energy bars (9 
 The bars are really good! Next time I make some, I'll probably try to use other cheaper ingredients - the 10 bars I made cost roughly 15€.
 
 Overall, I'd give them a 4.5/5.
-
-[![](/assets/minified/20200606165442_IMG_2200.jpg)](/assets/20200606165442_IMG_2200.JPG)
-[![](/assets/minified/20200606164800_IMG_2184.jpg)](/assets/20200606164800_IMG_2184.JPG)

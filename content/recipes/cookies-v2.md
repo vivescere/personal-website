@@ -7,6 +7,9 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/IMG_20200610_223115.jpg)](/assets/IMG_20200610_223115.jpg)
+[![](/assets/minified/IMG_20200611_123026.jpg)](/assets/IMG_20200611_123026.jpg)
+
 ## Recipe
 
 Source: [COOKIES AMERICAINS | VEGAN - La petite Okara](https://www.youtube.com/watch?v=c_jURDQSbcs)
@@ -42,6 +45,3 @@ Those were way better than the ones I previously made, close to perfect. There s
 This time I made 18 of them, and they seem to last for at least 3 days without a problem.
 
 Overall, I'd give them a 5/5 - they're delicious.
-
-[![](/assets/minified/IMG_20200610_223115.jpg)](/assets/IMG_20200610_223115.jpg)
-[![](/assets/minified/IMG_20200611_123026.jpg)](/assets/IMG_20200611_123026.jpg)

@@ -7,6 +7,9 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/IMG_20200614_131053.jpg)](/assets/IMG_20200614_131053.jpg)
+[![](/assets/minified/IMG_20200614_131114.jpg)](/assets/IMG_20200614_131114.jpg)
+
 ## Recipe
 
 Source: Cuisine végane p. 19 - Ed. naumann & göbel verlagsgesellschaft mbh
@@ -42,6 +45,3 @@ But, at the same time, I really like it. I enjoyed putting it on a slice of brea
 Apart from this, the texture is not really was I was expecting either. It's more liquid than your typical chocolate spread.
 
 Overall, I'd give it a 4.5/5.
-
-[![](/assets/minified/IMG_20200614_131053.jpg)](/assets/IMG_20200614_131053.jpg)
-[![](/assets/minified/IMG_20200614_131114.jpg)](/assets/IMG_20200614_131114.jpg)

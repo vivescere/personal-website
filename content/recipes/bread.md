@@ -7,6 +7,8 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/IMG_20200612_175739.jpg)](/assets/IMG_20200612_175739.jpg)
+
 ## Recipe
 
 Source: [Pain sans Pétrissage | Sain & 100% Végétal - Lloyd Lang](https://www.youtube.com/watch?v=4d7pFDvNXE8)
@@ -34,5 +36,3 @@ This took about 10 minutes to make (a little less than 2 hours if you count the 
 This seems like a really easy recipe that I can easily see myself doing every few days. I didn't add salt this time, so that felt like it was missing.
 
 Overall, I'd give the bread a 4.5/5.
-
-[![](/assets/IMG_20200612_175739.jpg)](/assets/IMG_20200612_175739.jpg)

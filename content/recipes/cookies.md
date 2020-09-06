@@ -7,6 +7,9 @@ type: "posts"
 showDate: true
 ---
 
+[![First view of the cookies on the aluminium sheet](/assets/minified/IMG_20200602_151750.jpg)](/assets/IMG_20200602_151750.jpg)
+[![Second view, from above, of the cookies on the aluminium sheet](/assets/minified/IMG_20200602_151744.jpg)](/assets/IMG_20200602_151744.jpg)
+
 ## Recipe
 
 Source : [PERFECT Vegan Chocolate Chip Cookie Recipe - Pincha Pink Salt](https://www.youtube.com/watch?v=gjSGtMrBias)
@@ -44,6 +47,3 @@ The cookies were really under-baked - so much so that my sister felt kinda bloat
 They also were really big, a 5cm ball definitely seems excessive. I think we had enough dough to make at least 12 smaller cookies.
 
 Overall, I'd give them a 3.5/5 ; they're definitely improvable.
-
-[![First view of the cookies on the aluminium sheet](/assets/minified/IMG_20200602_151750.jpg)](/assets/IMG_20200602_151750.jpg)
-[![Second view, from above, of the cookies on the aluminium sheet](/assets/minified/IMG_20200602_151744.jpg)](/assets/IMG_20200602_151744.jpg)

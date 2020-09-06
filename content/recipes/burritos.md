@@ -7,6 +7,10 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/IMG_20200610_205541.jpg)](/assets/IMG_20200610_205541.jpg)
+[![](/assets/minified/IMG_20200610_205449.jpg)](/assets/IMG_20200610_205449.jpg)
+[![](/assets/minified/IMG_20200610_202418.jpg)](/assets/IMG_20200610_202418.jpg)
+
 ## Recipe
 
 Source: [Black beans burritos | The Buddhist Chef](https://www.youtube.com/watch?v=hbYNfLs9vCE)
@@ -46,7 +50,3 @@ This took about 45min to make. It's enough for 6 tortillas, and is easy to make.
 These were really tasty. I started adding the layer of salsa on the bottom after the third burrito or so, and it really adds something. Maybe next time I'll try more daring ingredients.
 
 Overall, I'd give it a 4.5/5.
-
-[![](/assets/minified/IMG_20200610_205541.jpg)](/assets/IMG_20200610_205541.jpg)
-[![](/assets/minified/IMG_20200610_205449.jpg)](/assets/IMG_20200610_205449.jpg)
-[![](/assets/minified/IMG_20200610_202418.jpg)](/assets/IMG_20200610_202418.jpg)

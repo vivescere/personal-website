@@ -5,6 +5,7 @@
 <nav role="navigation">
     <ul>
         {{ range .Data.Pages }}
+        {{ if not .Params.draft }}
         <li>
             {{ if .Params.showDate }}
             {{ .Date.Format (.Site.Params.dateForm | default "Mon Jan 02, 2006")}} --
@@ -13,6 +14,7 @@
                 {{.Title | markdownify}}
             </a>
         </li>
+        {{ end }}
         {{ end }}
     </ul>
 </nav>

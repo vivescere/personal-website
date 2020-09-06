@@ -7,6 +7,9 @@ type: "posts"
 showDate: true
 ---
 
+[![Picture of the cooked bread](/assets/minified/20200605170040_IMG_2176.jpg)](/assets/20200605170040_IMG_2176.JPG)
+[![Picture of the cooked bread, sliced](/assets/minified/IMG_20200605_165723.webp)](/assets/IMG_20200605_165723.jpg)
+
 ## Recipe
 
 Source : [The perfect {vegan} banana bread - Valentina | The Baking Fairy](https://www.thebakingfairy.net/2015/05/the-perfect-vegan-banana-bread/)
@@ -39,6 +42,3 @@ This took about an hour to prepare and bake, and is not too hard to make.
 The bread was really good! The top was perfectly cooked, but the bottom was maybe too soft. Overall, I'd give it a 4.5/5.
 
 It wasn't really hard to unmold, but adding a baking sheet between the bread and the mold may be a good idea.
-
-[![Picture of the cooked bread](/assets/minified/20200605170040_IMG_2176.jpg)](/assets/20200605170040_IMG_2176.JPG)
-[![Picture of the cooked bread, sliced](/assets/minified/IMG_20200605_165723.webp)](/assets/IMG_20200605_165723.jpg)

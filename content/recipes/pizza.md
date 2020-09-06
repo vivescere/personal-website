@@ -7,6 +7,10 @@ type: "posts"
 showDate: true
 ---
 
+[![A slice of the second pizza](/assets/minified/IMG_2174.jpg)](/assets/IMG_2174.jpg)
+[![The first pizza - without any tomato](/assets/minified/IMG_20200604_191828.jpg)](/assets/IMG_20200604_191828.jpg)
+[![The second pizza](/assets/minified/IMG_2169.jpg)](/assets/IMG_2169.jpg)
+
 ## Recipe
 
 Sources :
@@ -81,7 +85,3 @@ Note: A typical pizza is about 200g of dough.
 They tasted great, although the tomato-free one wasn't as good.
 
 Overall, I'd give them a 4.75/5.
-
-[![A slice of the second pizza](/assets/minified/IMG_2174.jpg)](/assets/IMG_2174.jpg)
-[![The first pizza - without any tomato](/assets/minified/IMG_20200604_191828.jpg)](/assets/IMG_20200604_191828.jpg)
-[![The second pizza](/assets/minified/IMG_2169.jpg)](/assets/IMG_2169.jpg)

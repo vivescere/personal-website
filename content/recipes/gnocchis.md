@@ -7,6 +7,10 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/20200607142420_IMG_2214.jpg)](/assets/20200607142420_IMG_2214.JPG)
+[![](/assets/minified/20200607141958_IMG_2206.jpg)](/assets/20200607141958_IMG_2206.JPG)
+[![](/assets/minified/20200607142028_IMG_2210.jpg)](/assets/20200607142028_IMG_2210.JPG)
+
 ## Recipe
 
 Source : [GNOCCHI VEGAN | Sain & Facile - Lloyd Lang](https://www.youtube.com/watch?v=udrsuOpXAmQ)
@@ -34,7 +38,3 @@ This took 2 hours and a half to prepare - altough I was slow at the beginning. I
 The gnocchis were good - but not that great when eaten alone. Adding a bit of tomato sauce on top was a game changer.
 
 Overall, I'd give them a 4.25/5.
-
-[![](/assets/minified/20200607142420_IMG_2214.jpg)](/assets/20200607142420_IMG_2214.JPG)
-[![](/assets/minified/20200607141958_IMG_2206.jpg)](/assets/20200607141958_IMG_2206.JPG)
-[![](/assets/minified/20200607142028_IMG_2210.jpg)](/assets/20200607142028_IMG_2210.JPG)

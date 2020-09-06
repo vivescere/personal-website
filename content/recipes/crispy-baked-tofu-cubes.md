@@ -7,6 +7,11 @@ type: "posts"
 showDate: true
 ---
 
+[![](/assets/minified/IMG_2152.jpg)](/assets/IMG_2152.jpg)
+[![](/assets/minified/IMG_20200603_1346522.jpg)](/assets/IMG_20200603_1346522.jpg)
+[![](/assets/minified/IMG_2145.jpg)](/assets/IMG_2145.jpg)
+[![](/assets/minified/IMG_2147.jpg)](/assets/IMG_2147.jpg)
+
 ## Recipe
 
 Source : [HOW TO COOK TOFU | Crispy baked tofu recipe - Clean & Delicious](https://www.youtube.com/watch?v=LgYghvu6Vj4)
@@ -49,8 +54,3 @@ The meal was really good! The thing I'm not too used about is the texture of the
 I'll have to play with the cooking time, I'm not too sure if I should reduce or increase it tough.
 
 Overall, I'd give them a 4.25/5, I'd happily eat them anyday.
-
-[![](/assets/minified/IMG_2152.jpg)](/assets/IMG_2152.jpg)
-[![](/assets/minified/IMG_20200603_1346522.jpg)](/assets/IMG_20200603_1346522.jpg)
-[![](/assets/minified/IMG_2145.jpg)](/assets/IMG_2145.jpg)
-[![](/assets/minified/IMG_2147.jpg)](/assets/IMG_2147.jpg)
