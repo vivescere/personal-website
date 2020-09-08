@@ -3,7 +3,7 @@ title: 'About me'
 draft: false
 ---
 
-Hi! I'm Nicolas Bourras - a french student learning computer science at the Aix-Marseille university. I'll be starting my fourth year in 2020.
+Hi! I'm Nicolas Bourras - a french student learning computer science at the Aix-Marseille university. I started my fourth year in 2020.
 
 I love cycling, programming, photography and more recently I started getting into [cooking](/recipes) as well. I'm also vegan.
 
