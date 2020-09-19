@@ -15,7 +15,7 @@ You can find me online :
  - [on twitter](https://twitter.com/vivescere)
  - [on flickr](https://www.flickr.com/photos/148311248@N07/)
 
-Want to contact me? Shoot me a message on discord at `discere#9824`, or send me an email at [contact@nicolasb.fr](mailto:perso@nicolasb.fr).
+Want to contact me? Send me an email at [contact@nicolasb.fr](mailto:perso@nicolasb.fr).
 
 ## Portfolio
 
