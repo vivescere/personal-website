@@ -11,7 +11,7 @@ I mainly program in Rust these days, but I also regularly use Dart (with flutter
 
 You can find me online :
  - [on github](https://github.com/vivescere)
- - [on strava](https://www.strava.com/athletes/17224744)
+ - [on twitch](https://www.twitch.tv/vivescere)
  - [on twitter](https://twitter.com/vivescere)
  - [on flickr](https://www.flickr.com/photos/148311248@N07/)
 
