@@ -15,6 +15,7 @@ fi
 # Build the project.
 #hugo --minify # if using a theme, replace with `hugo -t <YOURTHEME>`
 
+
 git add .
 git commit -m "$msg"
 git push origin master
