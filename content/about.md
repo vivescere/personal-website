@@ -10,6 +10,7 @@ I love cycling, programming, photography and more recently I started getting int
 I mainly program in Rust these days, but I also regularly use Dart (with flutter) and python. I have experience with a fairly large number of languages, so don't hesite to ask me about them.
 
 You can find me online :
+ - [on root-me](https://root-me.org/vivescere)
  - [on github](https://github.com/vivescere)
  - [on twitch](https://www.twitch.tv/vivescere)
  - [on twitter](https://twitter.com/vivescere)
