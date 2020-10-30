@@ -10,3 +10,5 @@ showDate: true
 - [SALTED CARAMEL CHOCOLATE BARS | @avantgardevegan by Gaz Oakley](https://www.youtube.com/watch?v=3xiH4kiWP9o)
 - [5 INGREDIENT COFFEE CAKE | VEGAN LOCK DOWN DESSERT](https://www.youtube.com/watch?v=MkMlybni0p4)
 - [5 INGREDIENT BANOFFEE PIE | EASY VEGAN LOCK DOWN DESSERT](https://www.youtube.com/watch?v=Fad0M4kQ8Rc)
+- [Vegan Fruit Crumble](https://www.youtube.com/watch?v=fA40MD4DD14)
+- [HIGH PROTEIN VEGAN LASAGNA](https://www.youtube.com/watch?v=fPsfdRt3kaA)
