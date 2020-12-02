@@ -7,7 +7,7 @@ type: "posts"
 showDate: true
 ---
 
-I joined this CTF because there was a possiblity to get an internship (or a job). I think I did pretty well, ranking 1/1214 among the students, and 5 overall out of 2066 :)
+I joined this CTF because there was a possiblity to get an internship (or a job). I think I did pretty well, ranking 1/1214 among the students, and 5 overall out of 2063 :)
 
 This was a whole lot of fun, I got to learn a ton of things, lose some sleep, and make new friends. I can't wait for my next CTF!
 
@@ -36,6 +36,9 @@ Here are the challenges that I completed, with links to my writeups:
 I still need to get better at binary exploitation / reverse engineering!
 
 ## Screenshots
+
+The results ([source](https://www.defense.gouv.fr/dga/actualite/cybersecurite-resultats-du-challenge-dg-hack)):
+[![The scoreboard for everyone](/assets/dghack/resultats.jpg)](/assets/dghack/resultats.jpg)
 
 The general scoreboard:
 [![The scoreboard for everyone](/assets/dghack/scoreboard-general.png)](/assets/dghack/scoreboard-general.png)

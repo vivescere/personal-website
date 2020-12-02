@@ -3,7 +3,7 @@ title: 'About me'
 draft: false
 ---
 
-Hi! I'm Nicolas Bourras - a french student learning computer science at the Aix-Marseille university. I started my fourth year in 2020, specializing myself in security.
+Hi! I'm Nicolas Bourras, aka vivescere - a french student learning computer science at the Aix-Marseille university. I started my fourth year in 2020, specializing myself in security.
 
 I love cycling, programming, photography and more recently I started getting into [cooking](/recipes) as well. I'm also vegan.
 
@@ -18,9 +18,19 @@ You can find me online :
 
 Want to contact me? Send me an email at [contact@nicolasb.fr](mailto:perso@nicolasb.fr).
 
-## Portfolio
+## What I've been working on
 
 This section is a bit empty for now - I've done a lot of school projets that aren't good enough to be here.
+
+### CTF - DG'hAck
+
+I wrote an article on this CTF, which you can read [here](/blog/dghack-my-second-ctf/). It's complete with writeups for 14 challenges, out of the 16 I've completed.
+
+I ranked first out of all the students ; there was only 3 challenges that I didn't manage to solve, I still need to get better at reverse engineering / binary exploitation!
+
+### CTF - DGSE - Brigitte Friang
+
+My first CTF! I ranked 61 ouf of 785 teams, while being alone. It was a great learning experience.
 
 ### Introduction to Flutter
 
