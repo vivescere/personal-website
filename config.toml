@@ -1,30 +1,82 @@
 baseURL = "https://nicolasb.fr"
 languageCode = "en-us"
 title = "Nicolas Bourras"
-theme = "sam"
+theme = "terminal"
 
 [permalinks]
 recipes = "/recipes/:year/:month/:day/:title/"
 
 [params]
-dateForm = "Jan 02, 2006"
-homepage = "home"
-footerText = "Nicolas Bourras's site"
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
 
-[markup.goldmark.renderer]
-unsafe = true
+  # ["orange", "blue", "red", "green", "pink"]
+  themeColor = "pink"
 
-[[params.mainMenu]]
-link = "blog"
-text = "blog"
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 3
 
-[[params.mainMenu]]
-link = "recipes"
-text = "recipes"
+  # show selector to switch language
+  showLanguageSelector = false
 
-[[params.mainMenu]]
-link = "about"
-text = "who am I?"
+  # set theme to full screen width
+  fullWidthTheme = false
 
-[imaging]
-quality = 75
+  # center theme with default width
+  centerTheme = true
+
+  # set a custom favicon (default is a `themeColor` square)
+  # favicon = "favicon.ico"
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # set all headings to their default size (depending on browser settings)
+  # it's set to `true` by default
+  oneHeadingSize = false
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "vivescere"
+  #site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Nicolas Bourras"
+    subtitle = ""
+    owner = ""
+    keywords = ""
+    copyright = ""
+    menuMore = "Show more"
+    readMore = "Read more"
+    readOtherPosts = "Read other posts"
+    newerPosts = "Newer posts"
+    olderPosts = "Older posts"
+    missingContentMessage = "Page not found..."
+    missingBackButtonLabel = "Back to home page"
+
+    [languages.en.params.logo]
+      logoText = "Nicolas Bourras"
+      logoHomeLink = "/"
+
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        name = "Posts"
+        url = "/"
+      [[languages.en.menu.main]]
+        identifier = "recipes"
+        name = "Recipes"
+        url = "/recipes"
+

@@ -3,14 +3,16 @@ title: 'About me'
 draft: false
 ---
 
-Hi! I'm Nicolas Bourras, aka vivescere - a french student learning computer science at the Aix-Marseille university. I started my fourth year in 2020, specializing myself in security.
+Hi! I'm Nicolas Bourras, aka vivescere - a french student learning computer science at the Aix-Marseille university. I'll be starting my fifth and final year in september 2021.
 
 I love cycling, programming, photography and more recently I started getting into [cooking](/recipes) as well. I'm also vegan.
 
-I mainly program in Rust these days, but I also regularly use Dart (with flutter) and python. I have experience with a fairly large number of languages, so don't hesite to ask me about them.
+I mainly program in Rust these days, but I also regularly use Dart (with flutter) and python. I have experience with a fairly large number of languages, so don't hesitate to ask me about them.
 
 You can find me online :
  - [on root-me](https://root-me.org/vivescere)
+ - [on youtube](https://www.youtube.com/channel/UCUMa_0xKvmL7bf7aiv8ngYQ)
+ - [on hackthebox](https://www.hackthebox.eu/profile/427000)
  - [on github](https://github.com/vivescere)
  - [on twitch](https://www.twitch.tv/vivescere)
  - [on twitter](https://twitter.com/vivescere)
@@ -21,6 +23,10 @@ Want to contact me? Send me an email at [contact@nicolasb.fr](mailto:perso@nicol
 ## What I've been working on
 
 This section is a bit empty for now - I've done a lot of school projets that aren't good enough to be here.
+
+### CTF - Cyber Threat Force
+
+I also wrote an article on this CTF, which you can read [here](/blog/cyber-threat-force-ctf/). My team ranked fourth, and I ranked sixth!
 
 ### CTF - DG'hAck
 
@@ -41,6 +47,8 @@ This series of videos (in french) was an attempt at teaching Flutter, a framewor
 ### Beacon (2016)
 
 [View the application on the play store](https://play.google.com/store/apps/details?id=com.vivescere.beacon)
+
+**NOTE**: the application was taken offline for a while, because I have to update it so that it remains compliant with the Play Store policy.
 
 This application allows an athlete (or anyone who wants to, really) to share their location in realtime.
 
