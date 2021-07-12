@@ -2,6 +2,10 @@ baseURL = "https://nicolasb.fr"
 languageCode = "en-us"
 title = "Nicolas Bourras"
 theme = "terminal"
+timeout = 100000
+
+[imaging]
+resampleFilter = "Lanczos"
 
 [permalinks]
 recipes = "/recipes/:year/:month/:day/:title/"

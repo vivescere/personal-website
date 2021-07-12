@@ -1,0 +1,32 @@
+<div class="gallery__childrens">
+    {{template "childs" dict "menu" .Page.Pages.ByPublishDate.Reverse "count" 1 "pages" .Site.Pages }}
+</div>
+
+{{ define "childs" }}
+    {{ range .menu }}
+        {{ $link := .Permalink }}
+
+        {{ with .Resources.ByType "image" }}
+            {{ range . }}
+            {{ $resized := .Fit "480x360 webp" }}
+            <a href="{{ $link }}"><img src="{{ $resized.Permalink }}" /></a>
+            {{ end }}
+        {{ end }}
+    {{end}}
+{{end}}
+
+<script type="text/javascript">
+    function loadMacy() {
+        Macy({
+            container: '.gallery__childrens',
+            breakAt: {
+                1200: 5,
+                940: 3,
+                520: 2,
+                400: 1
+            }
+        });
+    }
+</script>
+
+<script src="/js/macy.min.js" async onload="loadMacy()"></script>

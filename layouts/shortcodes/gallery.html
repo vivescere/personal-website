@@ -1,0 +1,10 @@
+<!-- TODO: gallery for invidual pages -->
+
+{{ with .Page.Resources.ByType "image" }}
+    {{ range . }}
+    <a href="{{ .Permalink }}">
+        {{ $resized := .Fit "1280x960 webp" }}
+        <img src="{{ $resized.Permalink }}" style="width: 100%" />
+    </a>
+    {{ end }}
+{{ end }}
